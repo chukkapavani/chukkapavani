@@ -1,4 +1,4 @@
-![logo](https://github.com/chukkapavani/pavanichukka/blob/main/Git_banner.png)
+![logo](https://github.com/chukkapavani/chukkapavani/blob/main/Git_banner.png)
 <h1 align="center">Hi 👋, I'm Chukka s v pavani</h1>
 <h3 align="center">Information Technology Graduate</h3>
 
