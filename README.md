@@ -9,12 +9,6 @@
 <a href="https://app.daily.dev/chukkapavani"><img src="https://api.daily.dev/devcards/v2/DRvWFj8yhlEacaRyfNOoj.png?r=jno" width="356" alt="Chukka s v pavani's Dev Card"/></a>
 <p align="right" > <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/674316a75434bf319a9ab3fd?variant=dark" alt="roadmap.sh"/></a>
 </p>
- <br><br><br><br>
- [![roadmap.sh](https://roadmap.sh/card/tall/674316a75434bf319a9ab3fd?variant=dark)](https://roadmap.sh)
-  <br><br><br><br>
-  https://roadmap.sh/u/chukkapavani
-   <br><br><br><br>
- 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chukkapavani&label=Profile%20views&color=0e75b6&style=flat" alt="chukkapavani" /> </p>
